@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549072518472",
+    "project_id": "sit305task8",
+    "storage_bucket": "sit305task8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549072518472:android:e54f8347c7eb16f158477d",
+        "android_client_info": {
+          "package_name": "com.example.sit305_task81c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549072518472-1gskggcfqcodemr9uigeh9s42v8jjvhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGzphxgDnrJ7zBYKUoF8hoCtGRXcFBx-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549072518472-1gskggcfqcodemr9uigeh9s42v8jjvhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
